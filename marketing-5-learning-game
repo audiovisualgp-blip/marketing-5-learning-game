@@ -1,0 +1,8 @@
+# Reemplaza la URL con la de tu repositorio
+git remote add origin https://github.com/tu-usuario/marketing-5-learning-game.git
+
+# Cambiar el nombre de la rama a main
+git branch -M main
+
+# Subir el código
+git push -u origin main
